@@ -18,4 +18,8 @@ git pull
 
 4. To know the status 
 git status
+
 This command is useful to push and pull the code into our local system.
+NOw we learn some more commands about git.
+
+5. To check the logs.
