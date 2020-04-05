@@ -16,4 +16,6 @@ git push -u origin master
 3. To pull the code ointo local system 
 git pull
 
+4. To know the status 
+git status
 This command is useful to push and pull the code into our local system.
