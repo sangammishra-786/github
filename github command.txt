@@ -1,0 +1,14 @@
+1. To create a new repository on the command line
+echo "# mishrasangam1994-gmail.com" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/sangammishra-786/mishrasangam1994-gmail.com.git
+git push -u origin master
+                
+
+
+2.To push an existing repository from the command line
+
+git remote add origin https://github.com/sangammishra-786/mishrasangam1994-gmail.com.git
+git push -u origin master
